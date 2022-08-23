@@ -3,7 +3,7 @@
 
 </br> -->
 
-# Project : 2025 Landing Page [![Template Project](https://img.shields.io/badge/Template-Project-red)](http://www.gnu.org/licenses/agpl-3.0) [![Template Project](https://img.shields.io/badge/Technologies%20-HTML%2FCSS-brightgreen)](http://www.gnu.org/licenses/agpl-3.0)
+# Project 01: 2025 Landing Page [![Template Project](https://img.shields.io/badge/Template-Project-red)](http://www.gnu.org/licenses/agpl-3.0) [![Template Project](https://img.shields.io/badge/Technologies%20-HTML%2FCSS-brightgreen)](http://www.gnu.org/licenses/agpl-3.0)
 
 </br>
 
@@ -22,7 +22,7 @@
 
 <br/> 
 
-## 💻 Technologies Used:
+## Technologies Used
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 
