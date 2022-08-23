@@ -10,7 +10,6 @@
     height: 100vh;
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
     align-items: stretch;
 
 }
@@ -172,9 +171,7 @@ li,a{
     font-size: 17.5px;
 }
 
-.social-icons{
-    
-}
+
 .social-icon{
     height: 25px;
     margin: 0px 7.5px;
